@@ -5,6 +5,7 @@ public class Sample2 {
     }
     public void display(){
         System.out.println("Mohan Darure");
+        System.out.println("change1");
     }
 
 }
